@@ -1,4 +1,4 @@
-def calculate_bmi(bmi:float):
+def get_status(bmi:float):
     if bmi < 18.5:
         status = "體重過輕"
     elif bmi < 24:
