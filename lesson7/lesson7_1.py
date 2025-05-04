@@ -22,3 +22,4 @@ def main():
     print(f"狀態:{status}")
 
 if __name__ == '__main__':
+    main()
